@@ -1,0 +1,55 @@
+{
+  "name": "expo-splash-screen-ios-brand",
+  "version": "1.0.0",
+  "description": "Expo config plugin that adds a bottom icon and slogan to the iOS splash screen storyboard.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "build": "tsc -p plugin/tsconfig.json",
+    "clean": "rm -rf plugin/build",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "app.plugin.js",
+    "plugin",
+    "src",
+    "docs",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md",
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "expo",
+    "expo-config-plugin",
+    "expo-plugin",
+    "expo-splash-screen",
+    "ios",
+    "splash-screen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyuuroku16/expo-splash-screen-ios-brand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jyuuroku16/expo-splash-screen-ios-brand/issues"
+  },
+  "homepage": "https://github.com/jyuuroku16/expo-splash-screen-ios-brand#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": ">=55"
+  },
+  "dependencies": {
+    "@expo/config-plugins": "~55.0.6"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2"
+  }
+}

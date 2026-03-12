@@ -1,0 +1,8 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="40" fill="#F6F2E7"/>
+  <rect x="470" y="170" width="340" height="340" rx="72" fill="#FFFFFF" stroke="#D8D1C2" stroke-width="8"/>
+  <rect x="580" y="590" width="120" height="16" rx="8" fill="#D0C8B7"/>
+  <path d="M640 245C668.719 245 692 268.281 692 297C692 325.719 668.719 349 640 349C611.281 349 588 325.719 588 297C588 268.281 611.281 245 640 245Z" fill="#D0C8B7"/>
+  <text x="640" y="414" text-anchor="middle" fill="#9D9380" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700">Screenshot</text>
+  <text x="640" y="454" text-anchor="middle" fill="#9D9380" font-family="Helvetica, Arial, sans-serif" font-size="28">Replace with your real splash preview</text>
+</svg>
