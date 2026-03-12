@@ -64,4 +64,4 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
 
 ## Screenshot
 
-![Splash screen example](./docs/example-screenshot.png)
+<img src="./docs/example-screenshot.png" alt="Splash screen example" width="320" />
