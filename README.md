@@ -64,6 +64,4 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
 
 ## Screenshot
 
-Replace this placeholder with a real screenshot before publishing.
-
-![Splash screen screenshot placeholder](./docs/screenshot-placeholder.svg)
+![Splash screen example](./docs/example-screenshot.png)

@@ -1,6 +1,6 @@
 {
   "name": "expo-splash-screen-ios-brand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Expo config plugin that adds a bottom icon and slogan to the iOS splash screen storyboard.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
